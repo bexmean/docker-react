@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello World Dog Food Taste Good!
         </a>
       </header>
     </div>
